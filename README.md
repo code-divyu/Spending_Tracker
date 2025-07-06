@@ -1,2 +1,2 @@
 # Spending_Tracker
-Track your expenses ;)
+Designed and developed a desktop-based Spending Tracker application using Java and Swing in NetBeans IDE. The app allows users to record daily income and expenses, categorize transactions, and view summary reports. Implemented object-oriented programming concepts and file handling (or database integration) to store and manage financial data. The project focuses on promoting personal budgeting and provides a clean, user-friendly interface for tracking spending patterns.
